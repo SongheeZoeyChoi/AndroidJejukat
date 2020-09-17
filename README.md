@@ -1,2 +1,3 @@
-# androidJejugalgoyang
+# Android Project : Jejukat
+
 
