@@ -1,4 +1,4 @@
 # Android Project : Jejukat
 
-[jejukat_project.pdf](https://github.com/SongheeZoeyChoi/AndroidJejukat/files/5262587/jejukat_project.pdf)
+[Android_Project_JejuKat.pdf](https://github.com/SongheeZoeyChoi/AndroidJejukat/files/5262614/Android_Project_JejuKat.pdf)
 
